@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309754582895",
+    "project_id": "quiz-application-fd168",
+    "storage_bucket": "quiz-application-fd168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309754582895:android:122b3713ecc8d1b77c7a9a",
+        "android_client_info": {
+          "package_name": "com.example.quizapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu0d4yZJxmL23jJmHuLFJt6sPIzYa1FAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
